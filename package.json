@@ -1,0 +1,19 @@
+{
+  "name": "filewatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.6",
+    "chokidar": "^3.5.2",
+    "log-timestamp": "^0.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
